@@ -16,7 +16,7 @@ for i in range(1, 10001):
      except Exception as e:
          print(f"[-] Failed: {password}")
 
-#
+# root 계정으로 접속 시도
 ···
 password = "찾은 비밀번호"
 
