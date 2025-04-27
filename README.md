@@ -39,3 +39,4 @@
 - 취약점이 시스템 보안에 미치는 심각성을 직접적으로 검증할 수 있었다.
 
 ## 5. 작업 기록
+![Image](https://github.com/user-attachments/assets/1ab74c33-9529-48c6-b304-59e63283b9ef)
