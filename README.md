@@ -19,12 +19,14 @@
      ![Image](https://github.com/user-attachments/assets/47337c86-0594-41b5-b530-7ab1637729b3)
 
      - python3 poc.py 실행
+       
      ![Image](https://github.com/user-attachments/assets/c424f465-6c53-4af3-a8c8-b4d1bf96e725)
 
 - 2. 비밀번호 찾기
      - 로그인 반복 시행
      ![Image](https://github.com/user-attachments/assets/041932f0-1d96-4334-934e-207e0b26006e)
      - 올바른 비밀번호를 찾아냄
+       
      ![Image](https://github.com/user-attachments/assets/a6f0a2f5-fdf5-427a-adb0-98a1d7921d96)
 
 - 3. 찾아낸 비밀번호를 이용해 root 계정으로 데이터베이스 접속 성공
