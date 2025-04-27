@@ -7,8 +7,8 @@
 - 목표: MySQL 서비스에서 취약점을 이용해 비밀번호를 찾고 root 계정으로 로그인 성공
 
 ## 2. 환경 구축
-- 사용한 리포지터리: [gunh0/kr-vulhub](https://github.com/gunh0/kr-vulhub)
-- Fork한 리포지터리: [minseo1021](https://github.com/minseo1021/kr-vulhub.git)
+- 사용한 리포지터리: https://github.com/gunh0/kr-vulhub
+- Fork한 리포지터리: https://github.com/minseo1021/kr-vulhub.git
 
 ## 3. 환경 구축 및 실행
 - 1. Docker를 통해 취약한 MySQL 서버 환경(CVE-2012-2122)을 구축
@@ -39,5 +39,5 @@
 - 취약점이 시스템 보안에 미치는 심각성을 직접적으로 검증할 수 있었다.
 
 ## 5. 작업 기록
-- https://github.com/minseo1021/cve_docker_hw.git 커밋 이력
+- 커밋 이력(https://github.com/minseo1021/cve_docker_hw.git) 
 ![Image](https://github.com/user-attachments/assets/1ab74c33-9529-48c6-b304-59e63283b9ef)
